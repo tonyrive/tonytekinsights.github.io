@@ -10,8 +10,8 @@ If you saw my webinar at [BrightTALK](https://www.brighttalk.com/webcast/5742/31
 - [React Native](https://tonytekinsights.github.io/ContactDemoRN/)
 - [Flutter](https://tonytekinsights.github.io/ContactDemoFt/)
 
-<img src="https://github.com/tonytekinsights/ContactDemoXam/blob/master/ContactList.png" alt="Contact List" height="400dp">
-<img src="https://github.com/tonytekinsights/ContactDemoXam/blob/master/ContactDetails.png" alt="Contact List" height="400dp">
+<img src="https://tonytekinsights.github.io/ContactDemoXam/ContactList.png" alt="Contact List" height="400dp">
+<img src="https://tonytekinsights.github.io/ContactDemoXam/ContactDetails.png" alt="Contact List" height="400dp">
 
 ## YouTube
 Video content related to this demos and more coming soon to my current [YouTube](https://www.youtube.com/tonytekinsights) channel.
