@@ -15,3 +15,9 @@ If you saw my webinar at [BrightTALK](https://www.brighttalk.com/webcast/5742/31
 
 ## YouTube
 Video content related to this demos and more coming soon to my current [YouTube](https://www.youtube.com/tonytekinsights) channel.
+
+## Follow me at:
+- [https://twitter.com/TonyTekInsights](https://twitter.com/TonyTekInsights)
+- [https://www.youtube.com/TonyTekInsights](https://www.youtube.com/TonyTekInsights)
+- [https://www.facebook.com/TonyTekInsights](https://www.facebook.com/TonyTekInsights)
+- [https://www.instagram.com/TonyTekInsights](https://www.instagram.com/TonyTekInsights)
