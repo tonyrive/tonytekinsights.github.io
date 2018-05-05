@@ -3,7 +3,7 @@
 Hi guys, welcome to my GitHub page. 
 
 ## BrightTALK Webinar code
-If you saw my webinar at [BrightTALK](https://www.brighttalk.com/webcast/5742/314383) on "How to Increase Mobile App Development Efficiency Using Cross-Platform Frameworks" like [Flutter](https://flutter.io/), [React Native](https://facebook.github.io/react-native/) and [Xamarin](https://www.xamarin.com/).
+If you saw my webinar at [BrightTALK](https://www.brighttalk.com/webinar/how-to-increase-mobile-app-development-efficiency-with-cross-platform-frameworks/) on "How to Increase Mobile App Development Efficiency Using Cross-Platform Frameworks" like [Flutter](https://flutter.io/), [React Native](https://facebook.github.io/react-native/) and [Xamarin](https://www.xamarin.com/).
 
 ### Contact List Demo Code:
 - [Xamarin](https://tonytekinsights.github.io/ContactDemoXam/)
